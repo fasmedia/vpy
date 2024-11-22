@@ -1,3 +1,10 @@
-http://64.147.212.78:8080
-http://18.185.169.150:3128
-http://54.233.119.172:3128
+http://198.23.239.134:6540:hbapmaoj:8kehh8dw5ab5
+http://207.244.217.165:6712:hbapmaoj:8kehh8dw5ab5
+http://107.172.163.27:6543:hbapmaoj:8kehh8dw5ab5
+http://64.137.42.112:5157:hbapmaoj:8kehh8dw5ab5
+http://173.211.0.148:6641:hbapmaoj:8kehh8dw5ab5
+http://161.123.152.115:6360:hbapmaoj:8kehh8dw5ab5
+http://167.160.180.203:6754:hbapmaoj:8kehh8dw5ab5
+http://154.36.110.199:6853:hbapmaoj:8kehh8dw5ab5
+http://173.0.9.70:5653:hbapmaoj:8kehh8dw5ab5
+http://173.0.9.209:5792:hbapmaoj:8kehh8dw5ab5
