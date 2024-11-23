@@ -1,10 +1,10 @@
-ew62923oonmd:8elquigkcgcd@sin.socks.privado.io:1080
-ew62923oonmd:8elquigkcgcd@ams.socks.privado.io:1080
-ew62923oonmd:8elquigkcgcd@ath.socks.privado.io:1080
-ew62923oonmd:8elquigkcgcd@ber.socks.privado.io:1080
-ew62923oonmd:8elquigkcgcd@bud.socks.privado.io:1080
-ew62923oonmd:8elquigkcgcd@hkg.socks.privado.io:1080
-ew62923oonmd:8elquigkcgcd@lax.socks.privado.io:1080
+http://ew62923oonmd:8elquigkcgcd@sin.socks.privado.io:1080
+http://ew62923oonmd:8elquigkcgcd@ams.socks.privado.io:1080
+http://ew62923oonmd:8elquigkcgcd@ath.socks.privado.io:1080
+http://ew62923oonmd:8elquigkcgcd@ber.socks.privado.io:1080
+http://ew62923oonmd:8elquigkcgcd@bud.socks.privado.io:1080
+http://ew62923oonmd:8elquigkcgcd@hkg.socks.privado.io:1080
+http://ew62923oonmd:8elquigkcgcd@lax.socks.privado.io:1080
 http://198.23.239.134:6540:hbapmaoj:8kehh8dw5ab5
 http://207.244.217.165:6712:hbapmaoj:8kehh8dw5ab5
 http://107.172.163.27:6543:hbapmaoj:8kehh8dw5ab5
